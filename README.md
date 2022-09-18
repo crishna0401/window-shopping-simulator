@@ -1,7 +1,11 @@
-# window-shopping-simulator
+## Window-shopping-simulator
 
-0. Download all the files from links in resources.txt and files in this repository and put in single folder with no subfolders
-1. use the window_shopping_simulator.ipynb file to shop
-2. After Displaying four images enter "1": for like, "-1" for dislike, "0": for neutral sequentially for all displaying images in terminal
-3. you will see next set of four recommended images and time taken to generate them
-4. User will be asked wheather to continue shopping or not. Press anykey to continue shopping. Press 'n' to exit. 
+### Wrote this code as part of [Pracathon ML 2022](https://practathon.my.canva.site/)
+
+#### Steps to reproduce the results
+- Download all the files from links in resources.txt and files in this repository and put in single folder with no subfolders
+- Use the window_shopping_simulator.ipynb file to similate shopping.
+- It displays four images per iteration until stopped.
+- Enter "1": for like, "-1" for dislike, "0": for neutral, sequentially for all displayed images in terminal.
+- User will be asked wheather to continue shopping or not. Press anykey to continue shopping. Press 'n' to exit.
+- If continued, you will see next set of four recommended images and time taken to generate them 
